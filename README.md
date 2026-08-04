@@ -1,2 +1,2 @@
 # DSA_Daily
-Daily DSA practice &amp; LeetCode solutions
+Daily DSA practice & LeetCode solutions
