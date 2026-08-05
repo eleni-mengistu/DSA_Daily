@@ -1,3 +1,10 @@
+# Solution (Time Complexity: O(n), Space Complexity: O(1))
+# Uses two pointers to keep track of the position of the next unique
+# element and compare it with the previous unique element.
+# Note:
+# - The array is modified in place without using extra space.
+# - k keeps track of the number of unique elements found.
+
 class Solution:
     def removeDuplicates(self, nums: list[int]) -> int:
         k = 1
